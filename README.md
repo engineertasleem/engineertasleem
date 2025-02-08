@@ -3,7 +3,20 @@
 [LinkedIn](https://www.linkedin.com/in/engineertasleem/)  ,  [LeetCode](https://leetcode.com/u/engineertasleem)  ,  [Topmate](https://topmate.io/engineertasleem)  ,  [CodeChef](https://www.codechef.com/users/engineertaslee)
 
 
+Frontend Development
+HTML5 CSS3 JavaScript React TailwindCSS
 
+Backend Development
+NodeJS Express.js MongoDB
+
+Programming Languages
+Java Python
+
+Tools & Technologies
+Git GitHub Linux VS Code Postman
+
+Cloud & Deployment
+Vercel Netlify Render
 
 
 - 👋 Hi, I’m @engineertasleem
